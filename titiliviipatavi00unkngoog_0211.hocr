@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./titiliviipatavi00unkngoog_0211.png"; bbox 0 0 1950 3617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 20 545 730 777">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 20 545 730 777">
+     <span class='ocr_line' id='line_1_1' title="bbox 20 545 730 697; baseline 0.054 -53"><span class='ocrx_word' id='word_1_1' title='bbox 20 545 129 648; x_wconf 57' lang='lat' dir='ltr'>ssss‘vfifi</span> <span class='ocrx_word' id='word_1_2' title='bbox 144 579 173 637; x_wconf 74' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_3' title='bbox 191 582 301 651; x_wconf 71' lang='lat' dir='ltr'>saceno</span> <span class='ocrx_word' id='word_1_4' title='bbox 321 591 404 658; x_wconf 71' lang='lat' dir='ltr'>sanci</span> <span class='ocrx_word' id='word_1_5' title='bbox 421 607 521 667; x_wconf 60' lang='lat' dir='ltr'>verse„</span> <span class='ocrx_word' id='word_1_6' title='bbox 540 612 634 674; x_wconf 66' lang='lat' dir='ltr'>aedem</span> <span class='ocrx_word' id='word_1_7' title='bbox 651 584 730 697; x_wconf 62' lang='lat' dir='ltr'>Qui!</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 53 649 729 777; baseline 0.054 -51.231"><span class='ocrx_word' id='word_1_8' title='bbox 53 649 274 729; x_wconf 48' lang='lat' dir='ltr'>&amp;Desenam</span> <span class='ocrx_word' id='word_1_9' title='bbox 281 670 448 770; x_wconf 58' lang='lat' dir='ltr'><strong>Privqrmte</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 458 685 496 745; x_wconf 78' lang='lat' dir='ltr'>ita</span> <span class='ocrx_word' id='word_1_11' title='bbox 505 688 667 769; x_wconf 83' lang='lat' dir='ltr'><strong>decretum,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 679 717 729 777; x_wconf 82' lang='lat' dir='ltr'>ut,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 19 731 283 870">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 19 731 283 870">
+     <span class='ocr_line' id='line_1_3' title="bbox 19 731 283 870; baseline 0.076 -12"><span class='ocrx_word' id='word_1_13' title='bbox 19 731 156 870; x_wconf 46' lang='grc' dir='ltr'><em>Ψ</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 276 753 283 765; x_wconf 84' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 980 3617">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 980 3617">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 980 3617; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 980 3617; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
